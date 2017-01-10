@@ -1,0 +1,147 @@
+
+/*////////////////////////////////// NAVBAR ////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////*/
+
+
+.navbar-collapse {
+}
+
+.icon-bar{
+  background-color: #000000;
+}
+
+.nav > li > a {
+  font-weight: lighter;
+  border: 0.01px solid #000000;
+  font-family: Avenir, Tahoma, sans-serif;
+  font-size: 1em;
+  color: black;
+  border-radius: 5px 5px;
+  margin-top: 0.7vw !important;
+  margin: 0.2vw;
+  padding: 0.7vw;
+  letter-spacing: 1.2px;
+  text-align: center !important;
+}
+
+.nav > li > a:hover {
+  color: grey;
+  background-color: #FFFFFF;
+}
+
+.bigger {
+  font-size:1.5em;
+}
+
+/*////////////////////////////////// BODY //////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////*/
+
+
+.banner {
+  background-attachment: fixed;
+  background-size: cover;
+  justify-content: center;
+  text-align: center;
+  background-repeat: no-repeat;
+  height: 768px;
+}
+
+h1 {
+  font-family: Gill Sans;
+  font-weight: lighter;
+  font-size:34px;
+  border-spacing:14px;
+  background-image: ();
+}
+
+p {
+  font-family: Gill Sans;
+  font-weight: lighter;
+  font-size:22px;
+  border-spacing:14px;
+  background-image: ();
+}
+
+.img-circle {
+  border: 3px solid white;
+}
+
+.thumb-afk {
+  margin-top: 10px;
+}
+
+/*////////////////////////////////// TAG CLOUDS ////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////*/
+
+.tagcloud01 ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.tagcloud01 ul li {
+  display: inline-block;
+  margin: 0 .3em .3em 0;
+  padding: 0;
+}
+.tagcloud01 ul li a {
+  display: inline-block;
+  height: 28px;
+  line-height: 28px;
+  padding: 0 1em;
+  background-color: #fff;
+  border: 1px solid #aaa;
+  border-radius: 3px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #333;
+  font-size: 13px;
+  text-decoration: none;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+.tagcloud01 ul li a:hover {
+  background-color: #3498db;
+  border: 1px solid #3498db;
+  color: #fff;
+}
+
+/*////////////////////////////////// AUDIO PLAYA ////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////*/
+
+#playlist {
+  border: solid 1px #aaa;
+  border-radius: 3px;
+  font-family: Gill sans;
+  padding: 10px 1em;
+  margin: 0 auto;
+  list-style: none;
+  font-size: 12px;
+  background-color: #ffffff;
+  list-style: none;
+  width: 300px;
+}
+
+/*////////////////////////////////// IMAGE PAGE DIY ////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////*/
+
+.caption {
+  width:100%;
+  bottom: .3rem;
+  position: absolute;
+}
+
+.thumbnail {
+  border: 0 none;
+  box-shadow: none;
+  margin:0;
+  padding:0;
+  margin-top: 10px;
+}
+
+.caption p {
+  font-size: 25px;
+  font-family: Gill sans;
+  text-shadow: 2px 2px #000000;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+}

@@ -1,0 +1,42 @@
+////////////////////////////////// QUESTIONS _BLANK ////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////
+REMARQUES GLOBALES :
+Base du site parti de l'idée de mon ancien site fait complètement avec les pieds(il
+est d'ailleurs possible que certaines vieilles class et id ne soient pas supprimées)
+
+Pour le projet de ce e-CV j'ai choisi "Boostrap", j'ai pas mal galéré, à vrai dire je
+pensais que ce serait plus facile et surtout plus rapide qu'avec flex...
+
+Choix polices et esthétique non définitive,
+pas encore de footer,
+pas encore responsive sur la plupart des pages,
+les margin sont assumés. Bon ok on en recausera : )
+
+MENU :
+uniquement responsive sur la page "MAISON", je sais pas pourquoi pas sur les autres
+
+PAGE "Maison" :
+Pas encore de contenu texte, pas encore responsive
+
+PAGE "AwayFromKeyboard" :
+Nuage de mots clés représentant mes passions pas terminé,
+je voulais afficher un nuage différent selon le choix de la catégorie "Art",
+"Science" et "Technical Stuff"... Mais je n'ai pas réussi à faire fonctionner mes
+boutons...
+Choix des espacements images + textes pas terminés
+
+PAGE "BackAtKeyboard" :
+J'ai rien fait, je voulais utiliser des radar charts pour montrer mes XP & skills
+en informatique(code front, code back, distros, réseau, sécu) en audiovisuel(montage
+vidéo, montage audio, retouche photo, types de logiciels)
+et également y mettre mon "parcours" en quelques images illustrées numériquement
+et/ou avec du texte en +
+
+PAGE "DoItYourself" :
+Pas terminé, je me suis arrêté à la 2ème image, je pense que je referai quasi tout.
+
+PAGE "CurriculumVitae" :
+Pas terminé, à fusionner dans BackAtKeyboard
+
+PAGE "Contact" :
+Pas terminé.
